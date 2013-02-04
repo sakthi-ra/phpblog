@@ -1,0 +1,18 @@
+<environment>
+           <Browser/>
+		   
+<Server desc="" name="server">
+        <context>phpblog</context>
+        <admin_username/>
+        <deploy_dir>c:\wamp\www</deploy_dir>
+        <additional_context/>
+        <port>80</port>
+        <admin_password/>
+        <version>2.3</version>
+        <certificate/>
+        <type>Apache Server</type>
+        <remoteDeployment>false</remoteDeployment>
+        <host>localhost</host>
+        <protocol>http</protocol>
+    </Server>
+</environment>
